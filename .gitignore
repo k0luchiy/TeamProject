@@ -1,6 +1,6 @@
 *
 !*/
-!*.cpp
-!*.h
+!TeamProject/*.cpp
+!TeamProject/*.h
 
 !.gitignore
